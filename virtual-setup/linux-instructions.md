@@ -1,5 +1,5 @@
 ---
-title: Linux Set Up Instructions for Virtual Workshops
+title: Linux Set Up Instructions for Slack
 ---
 
 *Note: These instructions were tested on Ubuntu 18.04 LTS.
@@ -10,63 +10,11 @@ For other Linux distros, please see the instructions from the software providers
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Zoom](#zoom)
-  - [New Zoom Installation](#new-zoom-installation)
-  - [Set Up Preferences](#set-up-preferences)
 - [Slack](#slack)
   - [New Slack Installation](#new-slack-installation)
   - [Logging in to the Cancer Data Science workspace](#logging-in-to-the-cancer-data-science-workspace)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## Zoom
-
-### New Zoom Installation
-
-If you do not have Zoom installed yet, you will need to download the client.
-To do so, go to <https://zoom.us/download>. You will need to select the appropriate Linux Type, OS Architecture, and Version for your computer.
-
-Click the button to download the latest version of **Zoom Client for Linux**.
-
-<img src = "screenshots/linux-zoom-download-center.png" width = "750">
-
-When you download the `deb`, select `Save File`.
-
-<img src = "screenshots/linux-zoom-save-deb.png" width = "450">
-
-[The Zoom documentation recommends using GDebi if you are going to use a graphical installer](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_75e1dc24-8db1-4b89-8db9-eb049f9b7987).
-You can install GDebi by typing the following in a terminal and hitting enter:
-
-```
-sudo apt install gdebi
-```
-
-You will prompted for your admin password.
-
-Search your computer for GDebi and double click it.
-Open the Zoom DEB installer wih GDebi; you can use `Ctrl+O` and then open the Zoom `deb` file.
-
-Select `Install Package` to install Zoom.
-
-<img src = "screenshots/linux-zoom-gdebi-install.png" width = "450">
-
-To open Zoom, search your computer and double-click the icon to open it.
-The following window will come up, which you can use to log in and set up preferences.
-
-<img src = "screenshots/linux-zoom-sign-in.png" width = "450">
-
-### Set Up Preferences
-
-Once you've logged into Zoom, use the gear icon in the top right hand corner of the window to bring up the preferences.
-
-<img src = "screenshots/linux-zoom-main-window.png" width = "750">
-
-Navigate to the `Audio` preferences and select `Automatically join audio by computer when joining a meeting`.
-
-<img src = "screenshots/linux-zoom-audio-preferences.png" width = "600">
-
-Navigate to `Share Screen` preferences, uncheck `Enter full screen when a participant shares screen` and check `Share selected app window only`.
-
-<img src = "screenshots/linux-zoom-share-screen-preferences.png" width = "600">
 
 ## Slack
 
@@ -108,5 +56,3 @@ If you are new to Slack, you can get familiar with the interface and features by
 You can find Slackbot (and yourself) in the left panel, under "Direct Messages".
 
 <img src="screenshots/slack-dm-slackbot.png" alt="DM Slackbot" width = "300">
-
-For more information about how we will be using Slack, please read about our [Slack Procedures](./slack-procedures.md).
