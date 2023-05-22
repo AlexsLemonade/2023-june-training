@@ -34,11 +34,13 @@ header_pages:
   # Note that when first cloned, the `workshop` directory will not exist,
   # as described at https://github.com/AlexsLemonade/training-specific-template#customizing-the-new-repository-for-an-individual-training-workshop
   - workshop/SCHEDULE.md
-  - workshop/workshop-structure.md
+  - workshop/participant_information.md
   - workshop/workshop-materials.md
+  - workshop/single-cell-resources.md
   - workshop/resources-for-consultation-sessions.md
   - working-with-your-data/working-with-your-own-data.md
   - workshop/posting-errors-guidelines.md
+  - workshop/using-docker-post-workshop.md
 author: Childhood Cancer Data Lab
 email: training@ccdatalab.org
 twitter_username: CancerDataLab
