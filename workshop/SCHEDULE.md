@@ -3,4 +3,4 @@ title: Workshop Schedule
 nav_title: Schedule
 ---
 
-<!--PLACEHOLDER-->
+The schedule is forthcoming, please stay tuned!
