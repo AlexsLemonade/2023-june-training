@@ -44,4 +44,4 @@ Notebooks and data files required for participation in the workshop will be prel
 
 ### Additional Resources for scRNA-seq Analysis
 
-Please see this [additional set of resources](./single-cell-resources.md) on single-cell RNA-seq analysis methods that may be useful to you as you develop your own single-cell RNA-seq analysis skills and practices.
+Please see this [additional set of resources](single-cell-resources.md) on single-cell RNA-seq analysis methods that may be useful to you as you develop your own single-cell RNA-seq analysis skills and practices.
