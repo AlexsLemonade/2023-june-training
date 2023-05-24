@@ -10,13 +10,13 @@ Below is the planned schedule for the June 13-15, 2023 Data Lab "Introduction to
 | **Day 1** | **2023-06-13**                                                   |
 | 9:00 AM   | Welcome, Introductions and Getting Started |
 | 10:00 AM  | Introduction to R and RStudio |
-|           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-r-tidyverse/01-intro_to_base_R.nb.html)  |
+|           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/01-intro_to_base_R.nb.html)  |
 | 11:15 AM  | *Coffee break*                                                   |
 | 11:30 AM  | Introduction to `ggplot2`  |
-|           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-r-tidyverse/02-intro_to_ggplot2.nb.html)  |
+|           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html)  |
 | 12:30 PM  | *Lunch*                                                          |
 | 1:30 PM   | Introduction to `tidyverse` |
-|           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-r-tidyverse/03-intro_to_tidyverse.nb.html) |
+|           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/03-intro_to_tidyverse.nb.html) |
 | 2:30 PM   | *Coffee break*                                                   |
 | 2:45 PM   | Exercises and Questions   |
 |             | [Exercise: Introduction to base R](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/exercise_01-intro_to_base_R.Rmd)  |
