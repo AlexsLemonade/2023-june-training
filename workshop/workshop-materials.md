@@ -41,3 +41,7 @@ These are formatted both as markdown files and PDFs, with the latter likely most
 ### RStudio Server
 
 Notebooks and data files required for participation in the workshop will be preloaded for each user on the RStudio server.
+
+### Additional Resources for scRNA-seq Analysis
+
+Please see this [additional set of resources](./single-cell-resources.md) on single-cell RNA-seq analysis methods that may be useful to you as you develop your own single-cell RNA-seq analysis skills and practices.
