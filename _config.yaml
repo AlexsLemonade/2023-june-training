@@ -40,7 +40,6 @@ header_pages:
   - workshop/resources-for-consultation-sessions.md
   - working-with-your-data/working-with-your-own-data.md
   - workshop/posting-errors-guidelines.md
-  - workshop/using-docker-post-workshop.md
 author: Childhood Cancer Data Lab
 email: training@ccdatalab.org
 twitter_username: CancerDataLab
