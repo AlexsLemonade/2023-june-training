@@ -35,7 +35,7 @@ On this page, we've assembled some resources you may find helpful during these s
 
 ## Module cheatsheets
 
-The [`modules-cheatsheets` directory](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/module-cheatsheets) of our [GitHub repository of training materials](https://github.com/AlexsLemonade/training-modules) contains Markdown and PDF version of "cheatsheets" that contain tables with short descriptions of functions used throughout training modules and links to documentation.
+The [`modules-cheatsheets` directory](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/module-cheatsheets) of our [GitHub repository of training materials](https://github.com/AlexsLemonade/training-modules) contains Markdown and PDF versions of "cheatsheets" that contain tables with short descriptions of functions used throughout training modules and links to documentation.
 
 You may find these helpful as you review instruction material or work through exercise notebooks.
 
