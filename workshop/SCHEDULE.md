@@ -36,7 +36,7 @@ Below is the planned schedule for the June 13-15, 2023 Data Lab "Introduction to
 | 11:00 AM  | Normalizing scRNA-seq data                                       |
 |           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/03-normalizing_scRNA.nb.html) |
 | 12:15 PM  | *Lunch*                                                          |
-| 1:15 PM   | Dimension Reduction in scRNA-seq                                 |
+| 1:15 PM   | Dimension reduction in scRNA-seq                                 |
 |           | [Completed instruction notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html) |
 | 2:30 PM   | *Coffee break*                                                   |
 | 2:45 PM   | Clustering and marker gene identification                        |
