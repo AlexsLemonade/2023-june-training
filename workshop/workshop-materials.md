@@ -20,7 +20,7 @@ In this training workshop, we will be using the following modules:
 <!--List the specific modules you will be using and use permalinks to a specific release-->
 
 - [Intro to R and the Tidyverse](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/intro-to-R-tidyverse)
-- [RNA-Seq](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/RNA-seq)
+- [scRNA-Seq](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/scRNA-seq)
 
 
 The layout of the `training-modules` folders follow a common general structure.
@@ -41,3 +41,7 @@ These are formatted both as markdown files and PDFs, with the latter likely most
 ### RStudio Server
 
 Notebooks and data files required for participation in the workshop will be preloaded for each user on the RStudio server.
+
+### Additional Resources for scRNA-seq Analysis
+
+Please see this [additional set of resources](single-cell-resources.md) on single-cell RNA-seq analysis methods that may be useful to you as you develop your own single-cell RNA-seq analysis skills and practices.

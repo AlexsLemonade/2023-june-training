@@ -1,13 +1,13 @@
-title: Data Lab Training
-training_title: MONTH-TOPIC
+title: ALSF Data Lab Training
+training_title: 2023 June Introduction to Single-cell RNA-Seq Workshop
 # The name of the repository (e.g., 2020-may-training)
 # We use training-specific-template to help with development
-repository: training-specific-template
+repository: 2023-june-training
 # Full URL to the repository
 # Again, using training-specific-template to aid in development
-repository_url: https://github.com/AlexsLemonade/training-specific-template
-start_date: YYYY-MM-DD
-end_date: YYYY-MM-DD
+repository_url: https://github.com/AlexsLemonade/2023-june-training
+start_date: 2023-06-13
+end_date: 2023-06-15
 # Specific release in AlexsLemonade/training-modules
 # We use master to make development easier
 release_tag: master
@@ -34,7 +34,7 @@ header_pages:
   # Note that when first cloned, the `workshop` directory will not exist,
   # as described at https://github.com/AlexsLemonade/training-specific-template#customizing-the-new-repository-for-an-individual-training-workshop
   - workshop/SCHEDULE.md
-  - workshop/workshop-structure.md
+  - workshop/participant_information.md
   - workshop/workshop-materials.md
   - workshop/resources-for-consultation-sessions.md
   - working-with-your-data/working-with-your-own-data.md
