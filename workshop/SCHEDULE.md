@@ -23,7 +23,8 @@ All notebook links contain solutions which we will work through together during 
 |             | [Exercise: Introduction to R](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/exercise_02-intro_to_R.Rmd)  |
 |             | [Exercise: Introduction to the `tidyverse`, Part 1](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse//exercise_03a-intro_to_tidyverse.Rmd) |
 |             | [Exercise: Introduction to the `tidyverse`, Part 2](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse//exercise_03b-intro_to_tidyverse.Rmd) |
-| 3:30 PM   | [Notebook: scRNA-seq quantification](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/01-scRNA_quant_qc.nb.html) |
+| 3:30 PM   | [Slides: Introduction to scRNA-seq (pdf)](../slides/2023-06-13_Intro_to_scRNA-seq.pdf) |
+|           | [Notebook: scRNA-seq quantification](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/01-scRNA_quant_qc.nb.html) |
 | 5:00 PM   | *Adjourn for the day*                                            |
 |           |                                                                  |
 | **Day 2** | **2023-06-14**                                                   |
