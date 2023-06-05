@@ -11,7 +11,8 @@ All notebook links contain solutions which we will work through together during 
 |------------------|------------------------------------------------------|
 | **Day 1** | **2023-06-13**                                                   |
 | 9:00 AM   | Welcome, Introductions and Getting Started |
-| 10:00 AM  | [Notebook: Introduction to R and RStudio](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) |
+| 10:00 AM  | [Slides: Introduction to R and RStudio (PDF)](../slides/2023-06-13_Intro-RStudio.pdf) |
+|           | [Notebook: Introduction to R and RStudio](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) |
 | 11:15 AM  | *Coffee break*                                                   |
 | 11:30 AM  | [Notebook: Introduction to `ggplot2`](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html)  |
 | 12:30 PM  | *Lunch*                                                          |
