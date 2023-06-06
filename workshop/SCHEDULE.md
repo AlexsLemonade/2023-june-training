@@ -43,7 +43,7 @@ All notebook links contain solutions which we will work through together during 
 |           | [Exercise: Dimension reduction and clustering](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_02-scrna_clustering.Rmd)  |
 |           | [Resources](resources-for-consultation-sessions.md)              |
 | 5:00 PM   | *Adjourn for the day*                                            |
-| 6:30 PM   | Workshop dinner; Location TBA                                    |
+| 6:00 PM   | Dinner at Manayunk Brewery (4120 Main St, Philadelphia, PA 19127)                                 |
 |           |                                                                  |
 | **Day 3** | **2023-06-15**                                                   |
 | 9:00 AM   | Questions and Review                                             |
