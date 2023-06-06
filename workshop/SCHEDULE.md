@@ -34,7 +34,8 @@ All notebook links contain solutions which we will work through together during 
 | 10:45 AM  | *Coffee break*                                                   |
 | 11:00 AM  | [Notebook: Normalizing scRNA-seq data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/03-normalizing_scRNA.nb.html) |                                       |
 | 12:15 PM  | *Lunch*                                                          |
-| 1:15 PM   | [Notebook: Dimension reduction with scRNA-seq data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html)                                 |
+| 1:15 PM   | [Slides: Dimension reduction and Clustering (pdf)](../slides/2023-06-14_Dimension-reduction-clustering.pdf) |
+|           | [Notebook: Dimension reduction with scRNA-seq data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html)                                 |
 | 2:30 PM   | *Coffee break*                                                   |
 | 2:45 PM   | [Notebook: Clustering and marker gene identification](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/05-clustering_markers_scRNA.nb.html)                        |
 | 3:45 PM   | Exercises, Questions, and Independent Projects                   |
@@ -46,9 +47,10 @@ All notebook links contain solutions which we will work through together during 
 |           |                                                                  |
 | **Day 3** | **2023-06-15**                                                   |
 | 9:00 AM   | Questions and Review                                             |
-| 9:30 AM   | [Notebook: Cell type annotation](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/06-celltype_annotation.nb.html), Part 1                                     |
+| 9:30 AM   | [Slides: Cell type annotation (pdf)](../slides/2023-06-15_Cell-typing.pdf) |
+|           | [Notebook: Cell type annotation](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/06-celltype_annotation.nb.html), Part 1  |
 | 11:00 AM  | *Coffee break*                                                   |
-| 11:15 AM  | Cell type annotation, Part 2 _(Same completed notebook)_         |
+| 11:15 AM  | Cell type annotation, Part 2 _(Same notebook)_         |
 | 12:30 PM  | *Lunch*                                                          |
 | 1:30 PM   | Exercises, Questions, and Independent Projects                   |
 |           | [Exercise: Cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_03-celltype.Rmd)  |
