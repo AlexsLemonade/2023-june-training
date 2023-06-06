@@ -10,7 +10,7 @@ start_date: 2023-06-13
 end_date: 2023-06-15
 # Specific release in AlexsLemonade/training-modules
 # We use master to make development easier
-release_tag: master
+release_tag: 2023-june
 # The Docker user will almost always be ccdl, which is why this is here
 docker_user: ccdl
 docker_repo: DOCKER-REPOSITORY
