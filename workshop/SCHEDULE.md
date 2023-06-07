@@ -10,7 +10,7 @@ All notebook links contain solutions which we will work through together during 
 | Time      | Topic                                                            |
 |------------------|------------------------------------------------------|
 | **Day 1** | **2023-06-13**                                                   |
-| 9:00 AM   | Welcome, Introductions and Getting Started |
+| 9:00 AM   | [Slides: Welcome, Introductions and Getting Started (PDF)](../slides/2023-06-13_workshop-intro.pdf)|
 | 10:00 AM  | [Slides: Introduction to R and RStudio (PDF)](../slides/2023-06-13_Intro-RStudio.pdf) |
 |           | [Notebook: Introduction to R and RStudio](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) |
 | 11:15 AM  | *Coffee break*                                                   |
@@ -43,7 +43,7 @@ All notebook links contain solutions which we will work through together during 
 |           | [Exercise: Dimension reduction and clustering](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_02-scrna_clustering.Rmd)  |
 |           | [Resources](resources-for-consultation-sessions.md)              |
 | 5:00 PM   | *Adjourn for the day*                                            |
-| 6:30 PM   | Workshop dinner; Location TBA                                    |
+| 6:00 PM   | Dinner at Manayunk Brewery (4120 Main St, Philadelphia, PA 19127)                                 |
 |           |                                                                  |
 | **Day 3** | **2023-06-15**                                                   |
 | 9:00 AM   | Questions and Review                                             |
